@@ -1,0 +1,37 @@
+/* font-family: ‘Sanchez’, serif; */
+
+h1 {
+    font-family: 'Sanchez', serif;
+    font-size: 4rem;
+    color: whitesmoke;
+}
+
+#lista-usuarios {
+    font-family: 'Sanchez', serif;
+    font-size: 2rem;
+}
+
+.bg-info {
+    background-image: linear-gradient(to left, #eff292, #70dcd5) !important;
+   
+    color: #9f30df;
+    margin: 2rem auto 0 auto;
+    
+}
+
+.navegador {
+    background-image: url(..//images/diferentes-idiomas.jpg);
+    height: 380px;
+
+}
+.container{
+    border: 5px solid #c078e9;
+    margin: 1rem auto;
+    padding: 1rem;
+}
+.form-control{
+    display: flex;
+    justify-content: right;
+    background-color: #a8eaee;
+}
+
